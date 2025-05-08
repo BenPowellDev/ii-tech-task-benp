@@ -17,9 +17,9 @@ Also worth noting, the ammount of times I was hit with a 'This website is under 
 ### 1. Can you review the website and pick six most important user journeys from the site?
 
 - New user registration and login
-- Filtering products by brand and category
+- Filtering products by brand
 - Adding and managing items in the basket
-- Placing an order
+- Placing an order at different stages of 'logged in'
 - Leaving a review on a product
 - Contacting customer services via 'Contact Us'
 
@@ -28,9 +28,9 @@ Also worth noting, the ammount of times I was hit with a 'This website is under 
 #### Chosen Journeys:
 
 - New user registration and login
-- Filtering products
-- Placing an order
-- Sending a contact us form
+- Filtering products by brand
+- Placing an order at different stages of 'logged in'
+- Contacting customer services via 'Contact Us'
 
 #### Reasoning:
 
