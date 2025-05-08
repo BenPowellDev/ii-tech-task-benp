@@ -183,11 +183,3 @@ or by appending the test command with the ammount of workers you want to use.
 ```bash
   npx playwright test --workers 1/2/3 etc
 ```
-
-### Github Actions
-
-Github Actions Steps
-
-```bash
-  npm run test
-```
