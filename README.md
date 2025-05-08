@@ -5,6 +5,8 @@ My submission for the ii technical task. I've aimed to mimic the standard user f
 
 Create Account -> Look for products -> Purchase -> Realise you've wasted all your money and submit a contact us form for a refund :D
 
+.env included as it is a generic site, but thought it good practice to use it just incase.
+
 Also worth noting, the ammount of times I was hit with a 'This website is under heavy load' message is tragic :(, thought all my tests were broken.
 
 #### README Sections:
