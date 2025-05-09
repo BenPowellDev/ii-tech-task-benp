@@ -7,7 +7,7 @@ Create Account -> Look for products -> Purchase -> Realise you've wasted all you
 
 .env included as it is a generic site, but thought it good practice to use it just incase.
 
-Also worth noting, the ammount of times I was hit with a 'This website is under heavy load' message is tragic :(, thought all my tests were broken.
+Also worth noting, the amount of times I was hit with a 'This website is under heavy load' message is tragic :(, thought all my tests were broken, If you run the tests and encounter failures, check the attached video as it will show the page is under heavy load.
 
 #### README Sections:
 - [Task Questions](#task-questions)
