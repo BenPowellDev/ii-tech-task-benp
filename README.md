@@ -156,10 +156,11 @@ Goal: Ensure that the 'Contact us / Get in touch' form is working correctly. ( I
 
 ### Locally
 
-Install project dependencies with:
+Install project dependencies with and playwright with:
 
 ```bash
   npm install
+  npx playwright install
 ```
 
 To run single tests use:
