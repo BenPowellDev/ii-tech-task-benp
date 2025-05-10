@@ -1,6 +1,8 @@
 
 # ii - Technical Task - Ben Powell
 
+[![ii - Technical Task - Ben Powell](https://github.com/BenPowellDev/ii-tech-task-benp/actions/workflows/playwright.yml/badge.svg?branch=master)](https://github.com/BenPowellDev/ii-tech-task-benp/actions/workflows/playwright.yml)
+
 My submission for the ii technical task. I've aimed to mimic the standard user flow with my test selection:
 
 Create Account -> Look for products -> Purchase -> Realise you've wasted all your money and submit a contact us form for a refund :D
