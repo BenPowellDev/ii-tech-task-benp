@@ -23,7 +23,7 @@ test('Write a message, and attach a file to the contact us form before submittin
     await pm.moveTo.tabName("Contact Us", "contact_us");
 
     // Fill the contact form and submit
-    await pm.contact.fillContactForm(user.firstName, user.email, "test", "test");
+    await pm.contact.fillContactForm(user.firstName, user.email);
     await pm.contact.submitContactForm();
 
     // Verify successful submission
